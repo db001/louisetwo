@@ -1,8 +1,8 @@
 h1 {
-  background-image: url(./Untitled_SEM_Oil_on_Canvas.jpg);
+    /* background-image: url(./Untitled_SEM_Oil_on_Canvas.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
-  width: 250px;
-  text-align: center;
-  background-position: 50%;
+  background-repeat: no-repeat; */
+    width: 250px;
+    text-align: center;
+    /* background-position: 50%; */
 }
